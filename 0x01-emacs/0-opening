@@ -1,4 +1,1 @@
-What is the command to open a file from within emacs?
-FindFile 
-or
-Anything - example  M-x anything-find-files
+emacs fileName
